@@ -1,3 +1,14 @@
+echo "# Gym-Club" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/Arnabchy/Gym-Club.git
+git push -u origin master
+
+
+
+
+
 echo "# GYM-CLUB-2" >> README.md
 git init
 git add README.md
@@ -5,3 +16,6 @@ git commit -m "first commit"
 git remote add origin https://github.com/Arnabchy/GYM-CLUB-2.git
 git push -u origin master
                 
+
+git remote add origin https://github.com/Arnabchy/Gym-Club.git
+git push -u origin master
